@@ -2,10 +2,6 @@ Name: Muhammad Zohaib
 
 Roll No: 2K22/CSM/74
 
-Subject: Web Engineering and Technologies 
-
-Submitted To: Doctor Gulsher Laghari
-
 https://github.com/Zohaib786391/Daraz-Style-Shopping-Cart/blob/main/shopping_cart_web.html#L
 
 # Daraz-Style-Shopping-Cart
